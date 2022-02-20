@@ -1,9 +1,9 @@
---
+---
 layout: post
 title: "Configure Scanner Sharing Over the Network Using SANE on Ubuntu Server"
 date: 2022-02-19 23:58:00
 categories: printer printing cups ubuntu-server cups-ubuntu pixma canon
---
+---
 
 ## Installation
 
