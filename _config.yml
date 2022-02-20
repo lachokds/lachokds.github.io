@@ -21,7 +21,7 @@
 title: lachokds
   #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Systems Engineer, CyberSec professional, Pentester/Hacker wannabe.
+  Pentester/Hacker/Computer Science & Systems Engineer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "lachokds.github.io" # the base hostname & protocol for your site, e.g. http://example.com
   #twitter_username: jekyllrb
