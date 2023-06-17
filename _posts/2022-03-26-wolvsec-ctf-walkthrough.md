@@ -2,7 +2,7 @@
 layout: post
 title: wolvsec-ctf-walkthrough
 date: 2022-03-28 00:06:52
-categories: 
+categories: CTF
 ---
 
 # Web
